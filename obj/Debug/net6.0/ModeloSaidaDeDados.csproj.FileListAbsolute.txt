@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\bin\Debug\net6.0\ModeloSaidaDeDados.exe
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\bin\Debug\net6.0\ModeloSaidaDeDados.deps.json
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\bin\Debug\net6.0\ModeloSaidaDeDados.runtimeconfig.json
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\bin\Debug\net6.0\ModeloSaidaDeDados.dll
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\bin\Debug\net6.0\ModeloSaidaDeDados.pdb
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\obj\Debug\net6.0\ModeloSaidaDeDados.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\obj\Debug\net6.0\ModeloSaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\obj\Debug\net6.0\ModeloSaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\obj\Debug\net6.0\ModeloSaidaDeDados.AssemblyInfo.cs
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\obj\Debug\net6.0\ModeloSaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\obj\Debug\net6.0\ModeloSaidaDeDados.dll
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\obj\Debug\net6.0\refint\ModeloSaidaDeDados.dll
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\obj\Debug\net6.0\ModeloSaidaDeDados.pdb
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\obj\Debug\net6.0\ModeloSaidaDeDados.genruntimeconfig.cache
+C:\Users\elias\Documents\CURSOS\UDEMY\Curso C#\Projetos\ModeloSaidaDeDados\ModeloSaidaDeDados\obj\Debug\net6.0\ref\ModeloSaidaDeDados.dll
